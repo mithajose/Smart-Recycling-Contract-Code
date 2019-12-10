@@ -4,7 +4,7 @@
 
 ## Clone the repo and open it in the VS code editor.
 
-> git clone https://github.com/WeRiseByLiftingOthers/E-WASTE-MANAGEMENT-ETHEREUM.git
+>
 
 Run the code in the VS Code editor
 
